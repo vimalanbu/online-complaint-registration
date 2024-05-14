@@ -1,0 +1,37 @@
+body{
+    background-color:cornsilk;
+}
+.navbar{
+    color: black;
+    font-size: medium;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color:rgb(171, 244, 240);
+}
+
+.navbar a{
+    color:tomato;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    width: 100%;
+
+}
+.navbar h3{
+    color:rgb(6, 72, 75);
+    font-weight: bolder;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.User h2{
+    margin-top: 10px;
+    color: rgb(230, 87, 35);
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 35px;
+
+}

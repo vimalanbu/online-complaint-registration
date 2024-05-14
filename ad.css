@@ -1,0 +1,28 @@
+body{
+    background-image: url("./cmpl_img/com.jpg");
+}
+.container{
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+    height: 350px;
+background-color: rgb(180, 198, 231);
+margin-top: 1%;
+margin-left: 30%;
+}
+.container .content{
+    font-size: 20px;
+    padding: 5px;
+}
+.container .content span{
+    color: tomato;
+    font-size: 35px;
+}
+
+.container .content h3 .btn{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: antiquewhite;
+    text-decoration: none;
+    color: tomato;
+}

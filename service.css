@@ -1,0 +1,71 @@
+span{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.service h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.service_list .card{
+    width: 300px;
+    font-size: 20px;
+    background-color:antiquewhite;
+}
+.card img{
+    height: 200px;
+}
+.service_list .card .card-body .card-text{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+span{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Pricing h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.price_list .card .card-body .card-text{
+    text-align: left;
+}
+.price_list .card .card-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    color: crimson;
+    border: 1px solid black;
+    background-color: cornsilk;
+
+}
+.price_list .card .amount{
+    color:orangered;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.price_list .card {
+    height: 350px;
+}
+
+.gallery h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.gallery_list .card{
+    height: 200px;
+}
+
+  
